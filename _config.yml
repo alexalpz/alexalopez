@@ -1,7 +1,0 @@
-title: [My  Portofolio]
-description: [Showcase my skillsets]
-theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
-logo: [Location of the logo]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
