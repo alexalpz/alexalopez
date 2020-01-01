@@ -1,2 +1,4 @@
+title: [My  Portofolio]
+description: [Showcase my skillsets]
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
