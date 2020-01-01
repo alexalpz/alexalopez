@@ -6,5 +6,5 @@
   <body>
     <h1>Portofolio</h1>
     <p>Random text. Not sure why Im typing for real.</p>
-  
+  </body>
 </html>
