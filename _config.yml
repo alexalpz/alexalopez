@@ -1,5 +1,5 @@
 encoding: UTF-8
 theme: jekyll-theme-minimal
 title: [My Portofolio]
-logo: portrait.jpg
+logo: ../portrait.jpg
 show_downloads: true
