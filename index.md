@@ -5,7 +5,7 @@
   </head>
   <body>
     <header>
-    <img src='portrait.jpg' alt="Headshot image of girl">
+    <img src='portrait.jpg' alt="Headshot of girl">
     </header>
     <h1>Hello World</h1>
     <p>I'm hosted with GitHub Pages. Updated Version</p>
