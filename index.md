@@ -5,8 +5,7 @@ layout: default
 
 # About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I'd love to be able to work with software developmnet,programming and/or maintnance for companies and grow with a team that will expose me to various working habits as well as technical skills. As a goal, I hope to be involve with a software or application that can possitively impact environmental issues and I want to 
 * * *
 
 ## Education:
