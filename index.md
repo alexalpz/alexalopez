@@ -18,7 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
     
 * * *
 
-### Skills
+## Skills
 
 *  This is an ordered list following a header.
 *  This is an ordered list following a header.
@@ -27,14 +27,33 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-### Relevant Experience:
+## Relevant Experience:
 
 - level 1 item
   - level 2 item
   - level 2 item
     - level 3 item
     - level 3 item
+    
+ ### Relevant Courses 
+ - level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+    
+## Awards and Acheivements 
 
+*  This is an ordered list following a header.
+*  This is an ordered list following a header.
+*  This is an ordered list following a header.
+
+### Activites and Events
+ - level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
 
 ```
 The final element.
