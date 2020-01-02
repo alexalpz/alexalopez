@@ -6,6 +6,7 @@ layout: default
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+* * *
 
 ## Education:
 
@@ -14,6 +15,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
   - level 2 item
     - level 3 item
     - level 3 item
+    
+* * *
 
 ### Skills
 
@@ -21,8 +24,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 *  This is an ordered list following a header.
 *  This is an ordered list following a header.
 
-
-### There's a horizontal rule below this.
 
 * * *
 
