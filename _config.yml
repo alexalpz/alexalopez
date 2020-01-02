@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
-logo: '../portrait.jpg'
+logo: path:'portrait.png'
+      use_default: false
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
