@@ -42,12 +42,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
   - level 2 item
     - level 3 item
     - level 3 item
+ 
+* * *
     
 ## Awards and Acheivements 
 
 *  This is an ordered list following a header.
 *  This is an ordered list following a header.
 *  This is an ordered list following a header.
+
+
+* * *
 
 ### Activites and Events
  - level 1 item
