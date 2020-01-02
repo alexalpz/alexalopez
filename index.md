@@ -7,8 +7,7 @@
   <body>
     <div>
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-    
+        
         <img src="portrait.JPG" alt="Logo" />
        
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -19,7 +18,7 @@
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>RESUME</strong></a></li>
         </ul>
-        {% endif %}
+  
       </header>
 
       <footer>
