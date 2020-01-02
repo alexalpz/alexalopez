@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: [My Portofolio]
 logo: 'portrait.png'
 use_default: false
-showdownloads: true
+show_downloads: true
