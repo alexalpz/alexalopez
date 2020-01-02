@@ -1,5 +1,0 @@
-theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
-title: [My Portofolio]
-description: [A short description of your site's purpose]
-logo: [Location of the logo]
