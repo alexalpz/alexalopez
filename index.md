@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## MY PORTOFOLIO
+## My Portofolio
 * * * *
 
 ## About Me
