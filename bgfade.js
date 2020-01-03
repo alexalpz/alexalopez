@@ -1,8 +1,4 @@
-$(function(){
-    var bgimage = new Image();      
-    bgimage.src="{wallpaper.jpg}";       
-
-    $(bgimage).load(function(){
-        $("body").css("wallpaper.jpg","url("+$(this).attr("src")+")").fadeIn();                  
-    });
-});
+$('#elem').fadeTo('slow', 0.3, function()
+{
+    $(this).css('background-image', 'url(' + $img + ')');
+}).fadeTo('slow', 1);
