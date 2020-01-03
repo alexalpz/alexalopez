@@ -5,7 +5,9 @@ layout: default
 
 # About Me
 
-Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I'd love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills. 
+Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. 
+
+I'd love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills. 
 
 I've always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance.  Please feel free to contact me if you need any further information!
 * * *
@@ -13,7 +15,7 @@ I've always liked to create and design, hence why I find programming to be reall
 ## Education:
 
 <dl>
-<dt>Georgia Southern University, Statesboro GA</dt>(Jan 2018 - Dec 2020)
+<dt>Georgia Southern University, Statesboro GA (Jan 2018 - Dec 2020)</dt>
 <dd>Bachelours of Science in  Information Technology</dd>
 <dt>Interamerican University of PR, Fajardo PR (Aug 2015 - Sep 2017)</dt>
 <dd>Bachelours of Science in Computer and Network Technology</dd>
@@ -23,7 +25,7 @@ I've always liked to create and design, hence why I find programming to be reall
    
 * * *
 
-## Skills
+## Technical Skills
 
 *  HTML, CSS, Javascript
 *  Python
