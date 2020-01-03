@@ -5,9 +5,7 @@ layout: default
 
 # About Me
 
-Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I'd love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills. 
-
-As a long term goal, I hope to create a software or application that can support and work with environmental issues specifically regarding reducing pollution in the oceans. It's a big goal of mines but it's an issue that i'm passionate about working towards and try to keep in mind daily. When it comes to other hobbies, I've always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance. 
+Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I'd love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills. I've always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance.  Please feel free to contact me if you need any further information!
 * * *
 
 ## Education:
