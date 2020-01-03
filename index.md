@@ -10,12 +10,13 @@ Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and 
 
 ## Education:
 
-- Georgia Southern University (Jan 2018 - Expected graduation date Dec 2020)
-  - Bachelours of Science in  Information Technology
-- Interamerican University of Puerto  Rico (Aug 2015 - Sep 2017)
-  - Bachelours of Science in Computer and Network Technology
-
-    
+<dl>
+<dt>Georgia Southern University (Jan 2018 - Expected graduation date Dec 2020)</dt>
+<dd>Bachelours of Science in  Information Technology</dd>
+<dt>Interamerican University of Puerto  Rico (Aug 2015 - Sep 2017</dt>
+<dd>Bachelours of Science in Computer and Network Technology</dd>
+</dl>
+   
 * * *
 
 ## Skills
