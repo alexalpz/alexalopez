@@ -5,33 +5,34 @@ layout: default
 
 # About Me
 
-Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I'd love to be able to work with software developmnet,programming and/or maintnance for companies and grow with a team that will expose me to various working habits as well as technical skills. As a goal, I hope to be involve with a software or application that can possitively impact environmental issues and I want to 
+Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I'd love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills. As a long term goal, I hope to create a software or application that can support and work with environmental issues specifically regarding reducing pollution in the oceans. It's a big goal of mines but it's an issue that i'm passionate about working towards and try to keep in mind daily. When it comes to other hobbies, I've always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance. 
 * * *
 
 ## Education:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+- Georgia Southern University (Jan 2018 - Expected graduation date Dec 2020)
+  - Bachelours of Science in  Information Technology
+- Interamerican University of Puerto  Rico (Aug 2015 - Sep 2017)
+  - Bachelours of Science in Computer and Network Technology
+
     
 * * *
 
 ## Skills
 
-*  This is an ordered list following a header.
-*  This is an ordered list following a header.
-*  This is an ordered list following a header.
+*  HTML, CSS, Javascript
+*  Python
+*  MySQL Server Database
+*  Joomla
 
 
 * * *
 
 ## Relevant Experience:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
+- Hackathon competition at University of Georgia (May 2019)
+  - Project "Safe Haven" - Fictional website for therapeautic purposes. Used HTML, CSS and third party audio/images sources.
+- level 2 item
     - level 3 item
     - level 3 item
     
@@ -46,9 +47,9 @@ Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and 
     
 ## Awards and Acheivements 
 
-*  This is an ordered list following a header.
-*  This is an ordered list following a header.
-*  This is an ordered list following a header.
+*  WIT Connect Scholarship sponsored by T-Mobile (Jun 2019)
+*  Allen E. Paulson Scholarship (May 2018)
+*  Deans List (2014 - Present Day)
 
 
 * * *
