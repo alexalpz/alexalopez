@@ -1,4 +1,1 @@
-$('#elem').fadeTo('slow', 0.3, function()
-{
-    $(this).css('background-image', 'url(' + $img + ')');
-}).fadeTo('slow', 1);
+ $('div.bgImage').animate({ opacity: 1 }, { duration: 3000 });
