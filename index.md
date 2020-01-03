@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# About Me
+## About Me
 
 Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. 
 
