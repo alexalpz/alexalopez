@@ -68,21 +68,20 @@ I've always liked to create and design, hence why I find programming to be reall
 ### Activites and Events
 <dl>
    <dt> Women in Technology Organization (Jan 2018 – Present)</dt>
-   <dd> Programming committee member, Photographer, Volunteer and Advocate.</dd>
+      <dd> Programming committee member, Photographer, Volunteer and Advocate.</dd>
    <dt> Tau Sigma National Honor Society (Aug 2019 - Present)</dt>
-   <dd> Secretary - Responsible for keeping attendance and minutes at all meetings
+      <dd> Secretary - Responsible for keeping attendance and minutes at all meetings
       and functions. also organize all community service projects.</dd>
    <dt> Annual opening and closing events to represent WIT</dt> 
-   <dd> Attended kickoff events sponsored by Mercedes Benz Headquarters and Automatic Data Processing, Inc.</dd>
+      <dd> Attended kickoff events sponsored by Mercedes Benz Headquarters and Automatic Data Processing, Inc.</dd>
    <dt> Teklan Events at Georgia Southern University</dt>
-   <dd> Volunteer at food sales, gaming host and/or photography.</dd>
+      <dd> Volunteer at food sales, gaming host and/or photography.</dd>
    <dt> Hackathon Events</dt>
-   <dd> Create programming projects and/or participate in events.</dd>
+      <dd> Create programming projects and/or participate in events.</dd>
    <dt> Hosted student organization fair </dt>
-   <dd> Volunteer to represent my organizations and recruit new members </dd>
+      <dd> Volunteer to represent my organizations and recruit new members </dd>
    <dt> Attend LinkedIn and resume workshops </dt>
-   <dd> Have learned how to build a better network and improve my resume with professional advice</dd>
-   <dt> 
+      <dd> Have learned how to build a better network and improve my resume with professional advice</dd>
 </dl>
 
 * * *
