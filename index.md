@@ -80,6 +80,8 @@ I've always liked to create and design, hence why I find programming to be reall
    <dd> Create programming projects and/or participate in events.</dd>
    <dt> Hosted student organization fair </dt>
    <dd> Volunteer to represent my organizations and recruit new members </dd>
+   <dt> Attend LinkedIn and resume workshops </dt>
+   <dd> Have learned how to build a better network and improve my resume with professional advice</dd>
    <dt> 
 </dl>
 
