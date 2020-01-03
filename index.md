@@ -42,7 +42,7 @@ I've always liked to create and design, hence why I find programming to be reall
 - Joomla Website (Feb 2019)
    - Created a portofolio using free Joomla templates online.
 - Created personal autobiography using Google pages.
-   -Used basic Google Pages tools and HTML along with third party images. Created personal domain for the site and private email address.
+   - Used basic Google Pages tools and HTML along with third party images. Created personal domain for the site and private email address.
 - Created database using MySQL Server
    - Imported data, created tables and imported csv and excel files into database. Used queries to modify and alter database/tables.
 - Fictional website using Wix
