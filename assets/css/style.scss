@@ -24,13 +24,21 @@ body {
   background-repeat: no-repeat;
 }
 
-.border {
-    margin:30px auto;
-    width:930px;  
-    padding:50px;
-    border-radius:40px;
+label {
+	display:inline-block;
+	margin-bottom:10px;
+	width:35%;
+	padding-left:50px;
+	
 }
 
+
+
+input, select {
+	width:35%;
+	box-sizing:border-box;
+	
+}
 
 .buttons {
   background: #e3e1e1;
