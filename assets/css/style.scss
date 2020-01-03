@@ -27,9 +27,10 @@ body {
 .border {
 	border-style:solid;
 	display:inline-block;
-	background-color:white;
 	border:white;
 	padding:7% 3% ;
+	background: rgb(255,255,255);
+	background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,235,254,1) 47%, rgba(255,255,255,1) 100%);
 		
 }
 
