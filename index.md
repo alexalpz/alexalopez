@@ -19,7 +19,7 @@ I've always liked to create and design, hence why I find programming to be reall
 <dd>Bachelours of Science in  Information Technology</dd>
 <dt>Interamerican University of PR, Fajardo PR (Aug 2015 - Sep 2017)</dt>
 <dd>Bachelours of Science in Computer and Network Technology</dd>
-<dt>Pedro Falu Orellano Highschool, Rio Grande PR _(Aug 2010-May 2015)_</dt>
+<dt>Pedro Falu Orellano Highschool, Rio Grande PR (Aug 2010-May 2015)</dt>
 <dd>Graduated with 3.8 GPA</dd>
 </dl>
    
@@ -38,17 +38,21 @@ I've always liked to create and design, hence why I find programming to be reall
 ## Relevant Experience:
 
 - Hackathon competition at University of Georgia (May 2019)
-  - Project "Safe Haven" - Fictional website for therapeautic purposes. Used HTML, CSS and third party audio/images sources.
-- level 2 item
-    - level 3 item
-    - level 3 item
+  - Project "Safe Haven" - Fictional website for therapeautic purposes. Used HTML, CSS and third party audio/images sources. Used photoshop to customize logo.
+- Joomla Website (Feb 2019)
+   - Created a portofolio using free Joomla templates online.
+- Created personal autobiography using Google pages.
+   -Used basic Google Pages tools and HTML along with third party images. Created personal domain for the site and private email address.
+- Created database using MySQL Server
+   - Imported data, created tables and imported csv and excel files into database. Used queries to modify and alter database/tables.
+- Fictional website using Wix
+    - Created sites using free online templates for recreational purposes. 
+
     
- ### Relevant Courses 
- - level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+### Relevant Courses 
+ - Data Programming I& II
+ - Web Page Development
+ - Database Design and implementation
  
 * * *
     
