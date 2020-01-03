@@ -48,6 +48,8 @@ I've always liked to create and design, hence why I find programming to be reall
    - Imported data, created tables and imported csv and excel files into database. Used queries to modify and alter database/tables.
 - Fictional website using Wix
     - Created sites using free online templates for recreational purposes. 
+- Recreational websites for personal use
+   - My own portofolio page is hosted by GitHub pages. I've learned to corporate Jekyll software and MarkDown editor together to personalize the theme. I've used HTML and CSS for minimal customization.
 
 * * *
 
@@ -62,19 +64,21 @@ I've always liked to create and design, hence why I find programming to be reall
 
 * * *
 
-## Relevant Courses 
+### Relevant Courses 
  - Data Programming I& II
  - Web Page Development
  - Database Design and implementation
+ - Web Programming
  
 * * *
 
 ### Activites and Events
- - level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
+ - Women in Technology Organization, (Jan 2018 – Present)
+   - Programming committee member, Photographer, Volunteer and Advocate.
+ - Teklan Events at Georgia Southern University
+   - Volunteer at food sales, gaming host and/or photography.
+ - Hackathon Events
+   - Create programming projects and/or participate in events.
    
 
 ```
