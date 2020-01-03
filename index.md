@@ -13,7 +13,7 @@ I'd love to be able to work with software developmnet,programming and/or mainten
 
 I've always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance.  Please feel free to contact me if you need any further information!
 
-* * *
+
 
 ## Education
 
@@ -26,7 +26,7 @@ I've always liked to create and design, hence why I find programming to be reall
 <dd>Graduated with 3.8 GPA</dd>
 </dl>
    
-* * *
+
 
 ## Technical Skills
 
@@ -36,7 +36,6 @@ I've always liked to create and design, hence why I find programming to be reall
 *  Joomla
 
 
-* * *
 
 ## Relevant Experience:
 
@@ -53,7 +52,7 @@ I've always liked to create and design, hence why I find programming to be reall
 - Recreational websites for personal use
    - My own portofolio page is hosted by GitHub pages. I've learned to corporate Jekyll software and MarkDown editor together to personalize the theme. I've used HTML and CSS for minimal customization.
 
-* * *
+
 
 ## Awards and Acheivements 
 
@@ -63,8 +62,6 @@ I've always liked to create and design, hence why I find programming to be reall
 *  Thriving Professional award provided by Women In Technology
 *  Best networking growth on LinkedIn award by WIT
 
-
-* * *
 
 
 ### Activites and Events
@@ -86,7 +83,6 @@ I've always liked to create and design, hence why I find programming to be reall
       <dd> Have learned how to build a better network and improve my resume with professional advice</dd>
 </dl>
 
-* * *
 
 ### Relevant Courses 
  - Data Programming I& II
@@ -94,7 +90,7 @@ I've always liked to create and design, hence why I find programming to be reall
  - Database Design and implementation
  - Web Programming
  
-* * *
+
    
 
 ```
