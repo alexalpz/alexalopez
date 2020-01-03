@@ -73,12 +73,14 @@ I've always liked to create and design, hence why I find programming to be reall
 * * *
 
 ### Activites and Events
- - Women in Technology Organization, (Jan 2018 – Present)
-   - Programming committee member, Photographer, Volunteer and Advocate.
- - Teklan Events at Georgia Southern University
-   - Volunteer at food sales, gaming host and/or photography.
- - Hackathon Events
-   - Create programming projects and/or participate in events.
+<dl>
+   <dt> Women in Technology Organization, (Jan 2018 – Present)</dt>
+   <dd> Programming committee member, Photographer, Volunteer and Advocate.</dd>
+   <dt> Teklan Events at Georgia Southern University</dt>
+   <dd> Volunteer at food sales, gaming host and/or photography.</dd>
+   <dt> Hackathon Events</dt>
+   <dd> Create programming projects and/or participate in events.</dd>
+</dl>
    
 
 ```
