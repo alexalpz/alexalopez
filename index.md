@@ -13,9 +13,9 @@ I've always liked to create and design, hence why I find programming to be reall
 ## Education:
 
 <dl>
-<dt>Georgia Southern University, Statesboro GA _(Jan 2018 - Dec 2020)_</dt>
+<dt>Georgia Southern University, Statesboro GA</dt>(Jan 2018 - Dec 2020)
 <dd>Bachelours of Science in  Information Technology</dd>
-<dt>Interamerican University of PR, Fajardo PR _(Aug 2015 - Sep 2017)_</dt>
+<dt>Interamerican University of PR, Fajardo PR (Aug 2015 - Sep 2017)</dt>
 <dd>Bachelours of Science in Computer and Network Technology</dd>
 <dt>Pedro Falu Orellano Highschool, Rio Grande PR _(Aug 2010-May 2015)_</dt>
 <dd>Graduated with 3.8 GPA</dd>
