@@ -13,7 +13,7 @@ Hi, My name is Alexa Lopez! I'm a senior majoring in Information Technology and 
 <dl>
 <dt>Georgia Southern University, Statesboro GA (Jan 2018 - Dec 2020)</dt>
 <dd>Bachelours of Science in  Information Technology</dd>
-<dt>Interamerican University of Puerto  Rico, Fajardo PR (Aug 2015 - Sep 2017)</dt>
+<dt>Interamerican University of PR, Fajardo PR (Aug 2015 - Sep 2017)</dt>
 <dd>Bachelours of Science in Computer and Network Technology</dd>
 <dt>Pedro Falu Orellano Highschool, Rio Grande PR (Aug 2010-May 2015)</dt>
 <dd>Graduated with GPA 3.8</dd>
