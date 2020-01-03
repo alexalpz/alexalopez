@@ -23,6 +23,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.show_downloads %}
+        
+        <section class="text">
         <ul class="buttons">
         <li><a href="https://drive.google.com/file/d/1KmBsMuzKTrUCtUHBA6B5x4x5256zYf2d/view?usp=sharing"  target="_blank" download="Resume" alt="resume icon">My Resume</a></li>
         
@@ -30,6 +32,7 @@
          
         <li><a href="https://www.linkedin.com/in/alexa-lopez/"  target="_blank" alt="LinkedIn">LinkedIn</a></li>
         </ul>
+        </section>
                                                   
         {% endif %}
       </header>
