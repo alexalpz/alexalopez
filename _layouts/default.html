@@ -4,7 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   
+    
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+           var skillsDiv = jQuery('#skills');
+          jQuery(window).on('scroll', function() {
+            var winT = jQuery(window).scrollTop(),
+              winH = jQuery(window).height(),
+              skillsT = skillsDiv.offset().top;
+            if (winT + winH > skillsT) {
+              jQuery('.skillbar').each(function() {
+                jQuery(this).find('.skillbar-bar').animate({
+                  width: jQuery(this).attr('data-percent')
+                }, 6000);
+              });
+            }
+          });
+      </script>
     
 
 {% seo %}
@@ -222,22 +237,7 @@
         
         
     </div>
-           <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
-           var skillsDiv = jQuery('#skills');
-
-          jQuery(window).on('scroll', function() {
-            var winT = jQuery(window).scrollTop(),
-              winH = jQuery(window).height(),
-              skillsT = skillsDiv.offset().top;
-            if (winT + winH > skillsT) {
-              jQuery('.skillbar').each(function() {
-                jQuery(this).find('.skillbar-bar').animate({
-                  width: jQuery(this).attr('data-percent')
-                }, 6000);
-              });
-            }
-          });
-      </script>
+  
       
           <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
           
