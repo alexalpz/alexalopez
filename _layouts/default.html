@@ -1,123 +1,116 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html>
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+    <link rel='stylesheet' type='text/css' href='styles.css'>
+</head>
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
+<div class='wrapper'>
   <body>
-    <div class="wrapper">
       <header>
-        <h1><a class="title" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="portrait.jpg" alt="Logo" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        {% if site.show_downloads %}
-        
-        
+        <h1>My Portofolio</h1>
+            <img src="portrait.jpg" alt="Logo">
+ 
         <ul class="buttons">
         <li><a href="https://drive.google.com/file/d/1KmBsMuzKTrUCtUHBA6B5x4x5256zYf2d/view?usp=sharing"  target="_blank" download="Resume" alt="resume icon">My Resume</a></li>
         
-        <li><a href="https://codepen.io/alexalpz"  target="_blank" alt="Codepen">My Codepen</a></li>
+        <li><a href="https://github.com/alexalpz"  target="_blank" alt="GitHub">GitHub</a></li>
          
         <li><a href="https://www.linkedin.com/in/alexa-lopez/"  target="_blank" alt="LinkedIn">LinkedIn</a></li>
         </ul>
-        
-                                                  
-        {% endif %}
-     
       </header>
 
       <!--{{ content }}-->
-        
-        <h2 id="my-portofolio">My Portofolio</h2>
      
-        
         <section>
-        <h2 id="about-me">About Me</h2> 
-        
-          <p>Hi, My name is Alexa Lopez! I’m a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs.</p>
+            <h2>About Me</h2> 
+            
+                <p>Hi, My name is Alexa Lopez! I’m a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs.</p>
 
-          <p>I’d love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills.</p>
+                <p>I’d love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills.</p>
 
-          <p>I’ve always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance.  Please feel free to contact me if you need any further information!</p>
+                <p>I’ve always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance.  Please feel free to contact me if you need any further information!</p>
 
         </section>
         
-        <section class="edulist">
-        <h2 id="education">Education</h2>
+        <section>
+        <h2>Education</h2>
         <dl>
           <dt>Georgia Southern University, Statesboro GA (Jan 2018 - Dec 2020)</dt>
-            <dd>Bachelours of Science in  Information Technology</dd>
+            <dd>Bachelours of Science in  Information Technology, GPA 3.6</dd>
           <dt>Interamerican University of PR, Fajardo PR (Aug 2015 - Sep 2017)</dt>
             <dd>Bachelours of Science in Computer and Network Technology</dd>
           <dt>Pedro Falu Orellano Highschool, Rio Grande PR (Aug 2010-May 2015)</dt>
-            <dd>Graduated with 3.8 GPA</dd>
+            <dd>Graduated with honors</dd>
           </dl>
         </section>
 
         <section>
-        <h2 id="technical-skills">Technical Skills</h2>
-         
-            <ul>       
-              <li>HTML, CSS, Javascript</li>
+        <h2>Technical Skills</h2>
+        <div id='container'>
+            <div class="list"> 
+            <ul>     
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>Javascrip</li>
               <li>Python</li>
               <li>MySQL Server Database</li>
-              <li>Joomla</li>      
-          </ul>
-          
-            <ul>       
+              <li>Joomla</li>
+              <li>Visual Studio</li>
+            </ul>
+            </div>
+        </div> 
+
+        <div id='container'>
+            <div class="list"> 
+            <ul>         
               <li>Microsoft Office tools</li>
               <li>Bilingual</li>
               <li>Team player</li>
               <li>Self motivated</li>
-          </ul>
-              
+              <li>Adaptive</li>
+              <li>Photography</li>
+              <li>Photoshop</li>
+            </ul> 
+            </div>
+        </div>  
+                  
         </section>
   
         
-        <section class="experience">
-        <h2 id="relevant-experience">Relevant Experience:</h2>
+        <section id='relexp'>
+        <h2>Relevant Experience:</h2>
         <ul>
           <li>Hackathon competition at University of Georgia (May 2019)</li>
             <ul>
-              <li>Project “Safe Haven” - Fictional website for therapeautic purposes. Used HTML, CSS and third party audio/images sources. Used photoshop to customize logo.</li>
+              <li class='bullet'>Project “Safe Haven” - Fictional website for therapeautic purposes. Used HTML, CSS and third party audio/images sources. Used photoshop to customize logo.</li>
             </ul>
           
         <li>Joomla Website (Feb 2019)</li>
             <ul>
-              <li>Created a portofolio using free Joomla templates online.</li>
+              <li class='bullet'>Created a portofolio using free Joomla templates online.</li>
             </ul>
        
         <li>Created personal autobiography using Google pages.</li>
             <ul>
-              <li>Used basic Google Pages tools and HTML along with third party images. Created personal domain for the site and private email address.</li>
+              <li class='bullet'>Used basic Google Pages tools and HTML along with third party images. Created personal domain for the site and private email address.</li>
             </ul>
           
        <li>Created database using MySQL Server</li>
             <ul>
-              <li>Imported data, created tables and imported csv and excel files into database. Used queries to modify and alter database/tables.</li>
+              <li class='bullet'>Imported data, created tables and imported csv and excel files into database. Used queries to modify and alter database/tables.</li>
             </ul>
        
           <li>Fictional website using Wix</li>
             <ul>
-              <li>Created sites using free online templates for recreational purposes.</li>
+              <li class='bullet'>Created sites using free online templates for recreational purposes.</li>
             </ul>
           
           <li>Recreational websites for personal use</li>
             <ul>
-              <li>My own portofolio page is hosted by GitHub pages. I’ve learned to corporate Jekyll software and MarkDown editor together to personalize the theme. I’ve used HTML and CSS for minimal customization.</li>
+              <li class='bullet'>My own portofolio page is hosted by GitHub pages. I’ve learned to corporate Jekyll software and MarkDown editor together to personalize the theme. I’ve used HTML and CSS for minimal customization.</li>
             </ul>
          
         </ul>
@@ -125,8 +118,8 @@
         </section>
         
         
-        <section class='awardlist'>
-        <h2 id="awards-and-acheivements">Awards and Acheivements</h2>
+        <section>
+        <h2>Awards and Acheivements</h2>
           <ul>
             <li>WIT Connect Scholarship sponsored by T-Mobile (Jun 2019)</li>
             <li>Allen E. Paulson Scholarship (May 2018)</li>
@@ -138,8 +131,8 @@
         </section>
         
         
-        <section class='events'>
-        <h2 id="activites-and-events">Activites and Events</h2>
+        <section>
+        <h2>Activites and Events</h2>
         <dl>
            <dt> Women in Technology Organization (Jan 2018 – Present)</dt>
               <dd> Programming committee member, Photographer, Volunteer and Advocate.</dd>
@@ -157,12 +150,13 @@
            <dt> Attend LinkedIn and resume workshops </dt>
               <dd> Have learned how to build a better network and improve my resume with professional advice</dd>
            </dl>
+           
           
         </section>
 
         
-        <section class='courselist'>
-        <h2 id="relevant-courses">Relevant Courses</h2>
+        <section>
+        <h2>Relevant Courses</h2>
           <ul>
             <li>Data Programming I&amp; II</li>
             <li>Web Page Development</li>
@@ -172,8 +166,8 @@
        
         </section>
         
-          <section>
-            <h3 id='contact'> Contact Me </h3>
+          <section id='contact'>
+            <h3> Contact Me </h3>
             <div> 
               <p>Alexa Lopez</p>
               <p>930 Groveland Nevils Rd</p>
@@ -184,42 +178,17 @@
           </section>
           
        <div>
-         <a href="https://www.linkedin.com/in/alexa-lopez/"  target="_blank" alt="LinkedIn link">LinkedIn</a>
-         <a href="https://twitter.com/alexalopezit?lang=en"  target="_blank" alt="Twitter link">Twitter</a>
-         <a href="https://github.com/alexalpz"  target="_blank" alt="GitHub link">GitHub</a>
+         
       </div>
 
       </section>
       <footer>
         
-        {% if site.github.is_project_page %}
-        
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <small>Hosted by GitHub</p>
       </footer>
         
         
-    </div>
-  
-      
-          <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-          
-      
-        {% if site.google_analytics %}
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-          ga('create', '{{ site.google_analytics }}', 'auto');
-          ga('send', 'pageview');
-        </script>
-      
-      
-      
-    {% endif %}
-      
+    </div>  
     
   </body>
 </html>
