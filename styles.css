@@ -1,275 +1,214 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel='stylesheet' type='text/css' href='styles.css'>
-</head>
 
-  <body>
-    <!--Wrapper beginning -->
-    <div class='wrapper'>
-      
-      <!--Header-->
-      <header>
-        <h1>My Portofolio</h1>
-            <img src="portrait.jpg" alt="Logo">
- 
-        <ul class="buttons">
-          <li><a href="https://drive.google.com/file/d/1KmBsMuzKTrUCtUHBA6B5x4x5256zYf2d/view?usp=sharing"  target="_blank" download="Resume" alt="resume icon">My Resume</a></li>
-          <li><a href="https://github.com/alexalpz"  target="_blank" alt="GitHub">GitHub</a></li>
-           <li><a href="https://www.linkedin.com/in/alexa-lopez/"  target="_blank" alt="LinkedIn">LinkedIn</a></li>
-        </ul>
-      </header>
 
-      <!--End of header-->
-     
-      <!--About Me-->
-        <section>
-            <h2>About Me</h2> 
-               <p>Hi, My name is Alexa! I’m a senior majoring in Information Technology and specialize in Web and Mobile foundations at Georgia Southern University. I admire working behind the scenes designing and customizing web pages and blogs. I’d love to be able to work with software developmnet,programming and/or maintenance for companies and grow with a team that will expose me to various working habits as well as technical skills.</p>
-               <p> I’ve always liked to create and design, hence why I find programming to be really cool. I also love making social media pages look aesthetically pleasing and I use my own photography to enhance their appearance.  Please feel free to contact me if you need any further information!</p>
-       </section>
-        
-      <!--End of About Me-->
-      
-      <!--Education Start-->
-        <section>
-          <h2>Education</h2>
-            <dl>
-              <dt>Georgia Southern University, Statesboro GA (Jan 2018 - Dec 2020)</dt>
-                <dd>Bachelours of Science in  Information Technology, GPA 3.6</dd>
-              <dt>Interamerican University of PR, Fajardo PR (Aug 2015 - Sep 2017)</dt>
-                <dd>Bachelours of Science in Computer and Network Technology</dd>
-              <dt>Pedro Falu Orellano Highschool, Rio Grande PR (Aug 2010-May 2015)</dt>
-                <dd>Graduated with honors</dd>
-            </dl>
-       </section>
-      <!--Education End-->
 
-     <!--Skill Start-->
-        <section>
-            <h2>Technical Skills</h2>
-            <div id='container'>
-                <div class="list"> 
-                  <ul>     
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Javascrip</li>
-                    <li>Python</li>
-                    <li>MySQL Server Database</li>
-                    <li>Joomla</li>
-                    <li>Visual Studio</li>
-                  </ul>
-                  </div>
-            </div> 
+html,body,div,span,h1,h2,h3,h4,h5,h6,p,blockquote,address,em,img,strong,sub,u,i,center,ol,ul,li,fieldset,form,label,legend,table,caption,footer,header,nav
+{   margin:0;
+    padding:0;
+    border:0;
+    font:inherit;
+    vertical-align:baseline}
 
-            <div id='container'>
-                <div class="list"> 
-                  <ul>         
-                    <li>Microsoft Office tools</li>
-                    <li>Bilingual</li>
-                    <li>Team player</li>
-                    <li>Self motivated</li>
-                    <li>Adaptive</li>
-                    <li>Photography</li>
-                    <li>Photoshop</li>
-                  </ul> 
-                </div>
-            </div>  
-        </section>
-      <!--Skills End-->
-        
-      <!--Relevant Exp Start-->
-        <section id='relexp'>
-        <h2>Relevant Experience:</h2>
-        <ul>
-          <li>Hackathon competition at University of Georgia (May 2019)</li>
-            <ul>
-              <li class='bullet'>Project “Safe Haven” - Fictional website for therapeautic purposes. Used HTML, CSS and third party audio/images sources. Used photoshop to customize logo.</li>
-            </ul>
-          
-        <li>Joomla Website (Feb 2019)</li>
-            <ul>
-              <li class='bullet'>Created a portofolio using free Joomla templates online.</li>
-            </ul>
-       
-        <li>Created personal autobiography using Google pages.</li>
-            <ul>
-              <li class='bullet'>Used basic Google Pages tools and HTML along with third party images. Created personal domain for the site and private email address.</li>
-            </ul>
-          
-       <li>Created database using MySQL Server</li>
-            <ul>
-              <li class='bullet'>Imported data, created tables and imported csv and excel files into database. Used queries to modify and alter database/tables.</li>
-            </ul>
-       
-          <li>Fictional website using Wix</li>
-            <ul>
-              <li class='bullet'>Created sites using free online templates for recreational purposes.</li>
-            </ul>
-          
-          <li>Recreational websites for personal use</li>
-            <ul>
-              <li class='bullet'>My own portofolio page is hosted by GitHub pages. I’ve learned to corporate Jekyll software and MarkDown editor together to personalize the theme. I’ve used HTML and CSS for minimal customization.</li>
-            </ul>
-         
-        </ul>
-      </section>
-      <!--Rel Exp End-->
-        
-        <!--Awards Start-->
-        <section>
-        <h2>Awards and Acheivements</h2>
-          <ul>
-            <li>WIT Connect Scholarship sponsored by T-Mobile (Jun 2019)</li>
-            <li>Allen E. Paulson Scholarship (May 2018)</li>
-            <li>Deans List (2014 - Present Day)</li>
-            <li>Thriving Professional award provided by Women In Technology</li>
-            <li>Best networking growth on LinkedIn award by WIT</li>
-          </ul>
-        </section>
-        <!--Awards End-->
-        
-      <!--Events Start-->
-        <section>
-        <h2>Activites and Events</h2>
-        <dl>
-           <dt> Women in Technology Organization (Jan 2018 – Present)</dt>
-              <dd> Programming committee member, Photographer, Volunteer and Advocate.</dd>
-           <dt> Tau Sigma National Honor Society (Aug 2019 - Present)</dt>
-              <dd> Secretary - Responsible for keeping attendance and minutes at all meetings
-              and functions. also organize all community service projects.</dd>
-           <dt> Annual opening and closing events to represent WIT</dt> 
-              <dd> Attended kickoff events sponsored by Mercedes Benz Headquarters and Automatic Data Processing, Inc.</dd>
-           <dt> Teklan Events at Georgia Southern University</dt>
-              <dd> Volunteer at food sales, gaming host and/or photography.</dd>
-           <dt> Hackathon Events</dt>
-              <dd> Create programming projects and/or participate in events.</dd>
-           <dt> Hosted student organization fair </dt>
-              <dd> Volunteer to represent my organizations and recruit new members </dd>
-           <dt> Attend LinkedIn and resume workshops </dt>
-              <dd> Have learned how to build a better network and improve my resume with professional advice</dd>
-           </dl>
-        </section>
-    <!--Events End-->
-        
-      <!--Rel Courses-->
-        <section>
-        <h2>Relevant Courses</h2>
-          <ul>
-            <li>Data Programming I&amp; II</li>
-            <li>Web Page Development</li>
-            <li>Database Design and implementation</li>
-            <li>Web Programming</li>
-          </ul> 
-     </section>
-      <!--Rel courses End-->
+body{
+    padding:10px 50px 0 0;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:14px;color:#232323;
+    background-color:#FBFAF7;
+    margin:0;
+    line-height:1.8em;-webkit-font-smoothing:antialiased}
 
-      <!--Slideshow Start-->
-       <section>               
-           <!-- Slideshow container -->
-          <div class="slideshow-container">
-            <!-- Full-width images with number and caption text -->
-              
-            <div class="mySlides fade">
-                <div class="numbertext">1 / 3</div>
-                <img src="1.jpg" style="width:100%">
-                <div class="text">Caption Text</div>
-            </div>
+h2,h3,h4,h5,h6{
+    color:#232323;
+    margin:36px 0 10px}
 
-            <div class="mySlides fade">
-              <div class="numbertext">2 / 3</div>
-              <img src="2.jpg" style="width:100%">
-              <div class="text">Caption Two</div>
-            </div>
+p,ul,ol{margin:0 0 22px}
 
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 3</div>
-              <img src="3.jpg" style="width:100%">
-              <div class="text">Caption Three</div>
-            </div>
-            
-            
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 3</div>
-              <img src="4.jpg" style="width:100%">
-              <div class="text">Caption Three</div>
-            </div>
-            
-            
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 3</div>
-              <img src="5.jpg" style="width:100%">
-              <div class="text">Caption Three</div>
-            </div>
-            
-            
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 3</div>
-              <img src="6.jpg" style="width:100%">
-              <div class="text">Caption Three</div>
-            </div>
-            
-            
-            <div class="mySlides fade">
-              <div class="numbertext">3 / 3</div>
-              <img src="7.jpg" style="width:100%">
-              <div class="text">Caption Three</div>
-            </div>
+h1,h2,h3{
+    font-family:Arvo, Monaco, serif;
+    line-height:1.3;
+    font-weight:normal}
 
-            <!-- Next and previous buttons -->
-            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-            <a class="next" onclick="plusSlides(1)">&#10095;</a>
-          </div>
-          <br>
-
-          <!-- The dots/circles -->
-          <div style="text-align:center">
-            <span class="dot" onclick="currentSlide(1)"></span>
-            <span class="dot" onclick="currentSlide(2)"></span>
-            <span class="dot" onclick="currentSlide(3)"></span>
-            <span class="dot" onclick="currentSlide(4)"></span>
-            <span class="dot" onclick="currentSlide(5)"></span>
-            <span class="dot" onclick="currentSlide(6)"></span>
-            <span class="dot" onclick="currentSlide(7)"></span>
-          </div>
-    </section>
+h1,h2,h3{
+    display:block;
+    border-bottom:1px solid #ccc;
+    padding-bottom:5px}
     
-        <section id='contact'>
-            <h3> Contact Me </h3>
-            <div> 
-              <p>Alexa Lopez</p>
-              <p>930 Groveland Nevils Rd</p>
-              <p>Pembroke, GA </p>
-              <p>alexalopezit@gmail.com</p>
-              <p>Cell: 912-944-9778</p>
-            </div>
-          </section>
-          
-  
-      <footer>
-        <small>Hosted by GitHub</p>
-      </footer>  
-     
-    </div>  
-  
-  <script>
-              var slideIndex = 0;
-              showSlides();
+/*Title*/
+h1{font-size:30px;
+    color:#f5f5f5;
+    margin:36px 0 10px
+}
 
-              function showSlides() {
-                var i;
-                var slides = document.getElementsByClassName("mySlides");
-                for (i = 0; i < slides.length; i++) {
-                  slides[i].style.display = "none";
-                }
-                slideIndex++;
-                if (slideIndex > slides.length) {slideIndex = 1}
-                slides[slideIndex-1].style.display = "block";
-                setTimeout(showSlides, 2000); // Change image every 2 seconds
-              } 
-  </script>
-  </body>
-</html>
+h2{font-size:24px}
+h3{font-size:18px}
+h4,h5,h6{
+    font-family:Arvo, Monaco, serif;
+    font-weight:700}
+
+a{  color:#C30000;
+    font-weight:200;
+    text-decoration:none}
+
+a:hover{text-decoration:underline}
+
+a small{font-size:12px}
+
+ul{list-style-position:inside;
+    list-style:disc;
+    padding-left:25px}
+
+
+dl,dt,dd,dl p{
+    color:#444}
+dl dt{
+    font-weight:bold}
+dl dd{
+    padding-left:20px;
+    font-style:italic}
+
+dl p{padding-left:20px;}
+
+
+
+hr{ border:0;
+    background:#ccc;
+    height:1px;
+    margin:0 0 24px}
+
+img{position:relative;
+    margin:0 auto;
+    width:90%;
+    max-width:140px;
+    padding:5px;
+    margin:10px 0 32px 0;
+    border:1px solid #ccc    
+}
+
+
+
+.wrapper{width:960px}
+
+/*Header background*/
+header{
+    background-color:#28464b;
+    color:#FDFDFB;
+    width:170px;
+    float:left;
+    position:fixed;
+    border:1px solid #000;
+    -webkit-border-top-right-radius:4px;
+    -webkit-border-bottom-right-radius:4px;
+    -moz-border-radius-topright:4px;
+    -moz-border-radius-bottomright:4px;
+    border-top-right-radius:4px;
+    border-bottom-right-radius:4px;
+    padding:34px 25px 22px 50px;
+    margin:30px 25px 0 0;-webkit-font-smoothing:antialiased}
+p.header{font-size:16px}
+
+h1.header{font-family:Arvo, sans-serif;font-size:30px;
+    font-weight:300;
+    line-height:1.3em;
+    border-bottom:none;
+    margin-top:0}
+
+h1.header,a.header,a.name,header a{color:#fff}
+
+a.header{text-decoration:underline}
+a.name{white-space:nowrap}
+header ul{list-style:none;padding:0}
+
+/*Style buttons*/
+header li{
+    list-style-type:none;
+    width:132px;
+    height:15px;
+    margin-bottom:12px;
+    line-height:1em;
+    padding:6px 6px 6px 7px;
+    background:#22181c;
+    border-radius:4px;
+    border:1px solid #0D0D0D;
+    box-shadow:black}
+
+
+header li:hover{
+    background:#C3001D;
+    background:-moz-linear-gradient(top, #C3001D 0%, #950119 100%);
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #f8f8f8), color-stop(100%, #ddd));
+    background:-webkit-linear-gradient(top, #C3001D 0%, #950119 100%);
+    background:-o-linear-gradient(top, #C3001D 0%, #950119 100%);
+    background:-ms-linear-gradient(top, #C3001D 0%, #950119 100%);
+    background:linear-gradient(to top, #C3001D 0%, #950119 100%)}
+
+
+a.buttons:hover{color:#fff;
+    text-decoration:none}
+    
+section{width:650px;
+    float:right;
+    padding-bottom:50px}
+
+footer{width:170px;
+    float:left;
+    position:fixed;
+    bottom:10px;
+    padding-left:50px}
+@media print, screen and (max-width: 960px){div.wrapper{width:auto;margin:0}
+header,section,footer{
+    float:none;
+    position:static;
+    width:auto}
+
+footer{
+    border-top:1px solid #ccc;
+    margin:0 84px 0 50px;
+    padding:0}
+
+header{padding-right:320px}
+
+section{
+    padding:20px 84px 20px 50px;
+    margin:0 0 20px}
+
+header a small{display:inline}
+
+header ul{
+    position:absolute;
+    right:130px;top:84px}}
+@media print, screen and (max-width: 720px){body{word-wrap:break-word}header{padding:10px 20px 0;margin-right:0}
+section{
+    padding:10px 0 10px 20px;
+    margin:0 0 30px}
+footer{margin:0 0 0 30px}
+header ul,header p.view{position:static}}@media print, screen and (max-width: 480px){header ul li.download{display:none}footer{margin:0 0 0 20px}
+footer a{display:block}}@media print{body{padding:0.4in;font-size:12pt;color:#444}}
+
+
+    
+#container {
+    width:512px;
+    background:#FFFFCC;
+    
+    
+   }
+.list {
+    float:left;
+    width:200px;
+   }
+
+#relexp {
+    padding-top:200px;
+   
+}
+
+#contact {
+    line-height: 4px;
+    font-size: 15px;
+    text-align:left;
+}
+
+
+/*Add this class in Rel experience */
+.bullet {
+    list-style-type: none;
+}
